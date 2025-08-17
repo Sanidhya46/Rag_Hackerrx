@@ -1,0 +1,660 @@
+Certainly! Based on the provided document and the sample question-answer pattern, we can identify several types of question patterns that are commonly used to extract specific information from policy documents. Here's a comprehensive breakdown of possible question patterns:
+1. Definition & Explanation Questions
+What is/are [term/concept] as per the policy?
+How does the policy define [specific term]?
+Explain [term/concept] in the context of this policy.
+Example:
+"How does the policy define a 'Hospital'?"
+"What does 'Pre-existing Disease' mean under this policy?"
+2. Coverage & Benefit Related Questions
+Does the policy cover [specific benefit/expense]?
+What benefits are included under [specific section/cover]?
+Are preventive health check-ups covered?
+Is maternity expense covered under this policy?
+Example:
+"Does this policy include coverage for AYUSH treatments?"
+"What is the extent of coverage for organ donation?"
+3. Waiting Period & Eligibility Criteria
+What is the waiting period for [specific benefit/disease/procedure]?
+How long is the waiting period for pre-existing diseases?
+What are the conditions for [specific benefit/coverage]?
+What is the eligibility period for [specific benefit]?
+Example:
+"What is the waiting period for Cataract surgery?"
+"How long must one be continuously covered for maternity benefits?"
+4. Exclusion & Limit Questions
+What are the exclusions associated with [specific coverage]?
+Are there any sub-limits or caps on [room rent/ICU charges]?
+What expenses are not covered under [specific benefit]?
+Is there a limit on outpatient or OPD expenses?
+Example:
+"Are there sub-limits on ICU charges for Plan A?"
+"What expenses are excluded for organ donation procedures?"
+5. Claim Process & Documentation
+What documentation is required to claim [specific benefit]?
+What is the process to file a claim for [specific event]?
+Within how many days should claim documentation be submitted?
+Example:
+"What documents are needed to claim post-hospitalization expenses?"
+"What is the claim filing timeline after discharge?"
+6. Additional Benefits & Riders
+Are there any add-on benefits like preventive health check-ups or No Claim Discounts?
+What additional riders or add-ons are available?
+Is there a benefit for continuous coverage?
+Example:
+"Does the policy provide a No Claim Discount?"
+"Is there a benefit for annual preventive check-up?"
+7. Policy Terms & Conditions
+What is the policy's grace period for premium payment?
+How is the coverage affected if premium is paid late?
+What happens upon policy renewal?
+Are there any conditions for policy portability?
+Example:
+"What is the grace period for premium payment under this policy?"
+"How does continuous coverage affect waiting periods?"
+8. Definitions of Key Terms & Criteria
+How does the policy define a 'Hospital' or 'AYUSH Hospital'?
+What criteria qualify a facility as an accredited AYUSH hospital?
+What is the definition of inpatient treatment?
+Example:
+"What is the definition of a hospital under this policy?"
+"How is AYUSH treatment qualified for coverage?"
+9. Special Condition & Clause Queries
+Under what conditions will coverage for [specific benefit] be available?
+Are there any special clauses related to transplantation or organ donation?
+What are the specific conditions for post-hospitalization benefits?
+Example:
+"What conditions apply for organ donor expenses?"
+"Are claims related to relapse diseases covered?"
+Summary of Question Patterns:
+Pattern TypeSample PhrasesDefinition & Explanation"What is [term]?", "Define [term]"Coverage & Benefits"Does this cover [benefit]?", "What benefits include?"Waiting Period & Eligibility"What is the waiting period for [disease]?", "How long must you be covered for [benefit]?"Exclusion & Limit"Are there any limits on [service]?", "What is excluded under [section]?"Claim & Documentation"What documents are required for [claim]?", "How to file a claim?"Additional Benefits & Riders"Is preventive health check-up included?", "Are services like NCD offered?"Policy Terms & Conditions"What is the grace period for premium?", "How does renewal work?"Key Definitions"How does the policy define [term]?"Special Conditions"What are the conditions for [specific clause]?", "When is coverage applicable?"
+Note: These are generic patterns but can be customized further based on the specific content and clauses in the policy document.
+Let me know if you need the patterns reformatted or extended for a specific type of policy
+Certainly! Based on the provided document and the sample question-answer pattern, we can identify several types of question patterns that are commonly used to extract specific information from policy documents. Here's a comprehensive breakdown of possible question patterns:
+1. Definition & Explanation Questions
+What is/are [term/concept] as per the policy?
+How does the policy define [specific term]?
+Explain [term/concept] in the context of this policy.
+Example:
+"How does the policy define a 'Hospital'?"
+"What does 'Pre-existing Disease' mean under this policy?"
+2. Coverage & Benefit Related Questions
+Does the policy cover [specific benefit/expense]?
+What benefits are included under [specific section/cover]?
+Are preventive health check-ups covered?
+Is maternity expense covered under this policy?
+Example:
+"Does this policy include coverage for AYUSH treatments?"
+"What is the extent of coverage for organ donation?"
+3. Waiting Period & Eligibility Criteria
+What is the waiting period for [specific benefit/disease/procedure]?
+How long is the waiting period for pre-existing diseases?
+What are the conditions for [specific benefit/coverage]?
+What is the eligibility period for [specific benefit]?
+Example:
+"What is the waiting period for Cataract surgery?"
+"How long must one be continuously covered for maternity benefits?"
+4. Exclusion & Limit Questions
+What are the exclusions associated with [specific coverage]?
+Are there any sub-limits or caps on [room rent/ICU charges]?
+What expenses are not covered under [specific benefit]?
+Is there a limit on outpatient or OPD expenses?
+Example:
+"Are there sub-limits on ICU charges for Plan A?"
+"What expenses are excluded for organ donation procedures?"
+5. Claim Process & Documentation
+What documentation is required to claim [specific benefit]?
+What is the process to file a claim for [specific event]?
+Within how many days should claim documentation be submitted?
+Example:
+"What documents are needed to claim post-hospitalization expenses?"
+"What is the claim filing timeline after discharge?"
+6. Additional Benefits & Riders
+Are there any add-on benefits like preventive health check-ups or No Claim Discounts?
+What additional riders or add-ons are available?
+Is there a benefit for continuous coverage?
+Example:
+"Does the policy provide a No Claim Discount?"
+"Is there a benefit for annual preventive check-up?"
+7. Policy Terms & Conditions
+What is the policy's grace period for premium payment?
+How is the coverage affected if premium is paid late?
+What happens upon policy renewal?
+Are there any conditions for policy portability?
+Example:
+"What is the grace period for premium payment under this policy?"
+"How does continuous coverage affect waiting periods?"
+8. Definitions of Key Terms & Criteria
+How does the policy define a 'Hospital' or 'AYUSH Hospital'?
+What criteria qualify a facility as an accredited AYUSH hospital?
+What is the definition of inpatient treatment?
+Example:
+"What is the definition of a hospital under this policy?"
+"How is AYUSH treatment qualified for coverage?"
+9. Special Condition & Clause Queries
+Under what conditions will coverage for [specific benefit] be available?
+Are there any special clauses related to transplantation or organ donation?
+What are the specific conditions for post-hospitalization benefits?
+Example:
+"What conditions apply for organ donor expenses?"
+"Are claims related to relapse diseases covered?"
+Summary of Question Patterns:
+Pattern TypeSample PhrasesDefinition & Explanation"What is [term]?", "Define [term]"Coverage & Benefits"Does this cover [benefit]?", "What benefits include?"Waiting Period & Eligibility"What is the waiting period for [disease]?", "How long must you be covered for [benefit]?"Exclusion & Limit"Are there any limits on [service]?", "What is excluded under [section]?"Claim & Documentation"What documents are required for [claim]?", "How to file a claim?"Additional Benefits & Riders"Is preventive health check-up included?", "Are services like NCD offered?"Policy Terms & Conditions"What is the grace period for premium?", "How does renewal work?"Key Definitions"How does the policy define [term]?"Special Conditions"What are the conditions for [specific clause]?", "When is coverage applicable?"
+Note: These are generic patterns but can be customized further based on the specific content and clauses in the policy document.
+Let me know if you need the patterns reformatted or extended for a specific type of policy!
+pdf no. 2 prompt training 
+Analyzing the provided PDF document of the group domestic travel insurance policy by Cholamandalam MS General Insurance, we can categorize the types of questions, potential questioning patterns, and answer types that are relevant for extracting information from this file.
+Types of Questions and Questioning Patterns:
+Definition and Explanation Questions
+Examples:
+"What does 'accident' mean under this policy?"
+"Define 'medical necessity' as per the policy."
+Purpose: To clarify specific terms and clauses defined within the policy.
+Coverage and Benefit-Related Questions
+Examples:
+"What benefits are included in the policy for trip delay?"
+"Does the policy cover checked-in baggage loss?"
+Purpose: To understand what is covered and the scope of various benefits.
+Claims Process and Procedure Questions
+Examples:
+"How does one file a claim for baggage loss?"
+"What documents are required for a claim for medical expenses?"
+Purpose: To facilitate understanding of claim filing procedures.
+Exclusion and Limitation Questions
+Examples:
+"What are the general exclusions under this policy?"
+"Are cosmetic treatments excluded from coverage?"
+Purpose: To determine what circumstances or treatments are not covered.
+Policy Conditions and Limitations Questions
+Examples:
+"What is the deductible amount?"
+"Are pre-existing conditions covered?"
+Purpose: To clarify policy conditions, waiting periods, deductibles, etc.
+Special Endorsements and Add-ons Questions
+Examples:
+"What optional coverages are available for personal accidents?"
+"Is the compassionate visit benefit included in the main policy?"
+Purpose: To explore additional coverage options or endorsements.
+Definition of Key Terms and Configurations
+Examples:
+"What constitutes a 'hospital' in this policy?"
+"How is 'total loss' of baggage defined?"
+Purpose: To clarify terminology for accurate understanding.
+Comparison and Scenario-Based Questions
+Examples:
+"What happens if the baggage is lost on a connecting flight?"
+"Will expenses incurred outside the specified travel destinations be covered?"
+Purpose: To understand coverage in specific scenarios.
+Potential Answer Types:
+Factual and Specific
+Precise details about coverage limits, durations, conditions, etc.
+Procedural
+Step-by-step processes for claiming, reporting, or documentation.
+Explanatory
+Clarifications about policy language, exclusions, and definitions.
+Quantitative
+Numerical data such as sum insured, deductibles, number of days, limits.
+Conditional
+Statements about conditions under which certain benefits are activated or void.
+Document Identification and Questioning Pattern Sequence:
+Extracts policy definitions from introductory and clause-specific pages (e.g., pages 32-36, pages 45, 42, etc.).
+Details benefit-specific sections: baggage, trip delay, compassionate visit, daily allowance, dental/medical expenses (pages 31-45).
+Exclusions and limitations are outlined separately, enabling targeted questions on coverage restrictions (pages 31-33, 42, 45).
+Endorsements provide optional/additional coverage info (pages 29-36).
+Sequence of Questioning Pattern:
+Start with definitions to establish terminology clarity.
+Move to coverage details for each benefit/section.
+Inquire about exclusions and limitations to understand what is not covered.
+Ask about claim procedures and required documents.
+Explore optional endorsements for additional coverages.
+Conclude with scenario-specific questions based on particular needs.
+Summary:
+This PDF contains detailed policy clauses, benefit descriptions, exclusions, and endorsement provisions. An effective questioning pattern will follow a logical flow:
+Clarify terminology → Coverage details → Exclusions and limitations → Claims process → Optional/additional benefits → Scenario-based clarifications
+The answers to these questions can be factual, procedurally oriented, or explanatory, tailored to provide comprehensive policy understanding.
+If you'd like, I can also help generate specific questions and model answers based on particular sections of the policy or simulate a Q&A format based on this structure!
+Certainly! Based on the analysis of the provided PDFs and the structured questioning approach, here are example questions for each category along with sample answers, tailored to the content of the Cholamandalam MS General Insurance policy document:
+1. Definition and Explanation Questions
+Question: What does 'total loss' of checked-in baggage mean under this policy?
+Answer Example: 'Total loss' of checked-in baggage refers to the complete and irreversible loss of the baggage, where the airline or carrier declares the baggage as lost or irrecoverable, as outlined in the endorsement no. 11A.
+2. Coverage and Benefit-Related Questions
+Question: Does the policy cover expenses for trip delay caused by airline strikes?
+Answer Example: According to the policy, benefits related to trip delay are included, but specific exclusions such as losses caused by strikes are applicable. The policy specifies that delays caused by airline strikes are excluded unless otherwise mentioned, as per the special exclusions on page .
+3. Claims Process and Procedure Questions
+Question: What documents are needed to claim for the total loss of checked-in baggage?
+Answer Example: To claim for the total loss of checked-in baggage, the insured must submit a Property Irregularity Report (PIR) obtained from the airline immediately upon discovering the loss, along with the completed claim form and any supporting documents.
+4. Exclusion and Limitation Questions
+Question: Are cosmetic treatments covered under the medical expenses benefit?
+Answer Example: No, cosmetic treatments or plastic surgeries are excluded from coverage unless they are performed as part of treatment for injuries caused by an accident or burns, as specified in the exclusions on page .
+5. Policy Conditions and Limitations Questions
+Question: Is pre-existing illness covered under this insurance policy?
+Answer Example: The policy specifies that pre-existing diseases are generally not covered unless explicitly stated. Specific conditions for coverage of pre-existing illnesses are detailed in the policy, and typically, such conditions are excluded from coverage.
+6. Special Endorsements and Add-ons Questions
+Question: Is the compassionate visit benefit automatically included in the main policy or optional?
+Answer Example: The compassionate visit benefit is provided as an endorsement (Endorsement no. 8) and would require an active endorsement to be included. It is not part of the main policy coverage unless explicitly added.
+7. Key Term Definition and Configuration Questions
+Question: How is 'hospitalization' defined in this policy for the purposes of the emergency medical expenses benefit?
+Answer Example: 'Hospitalization' refers to an admission to a hospital as an inpatient for a minimum period of 24 hours, with necessary documentation from the medical facility, as per the policy guidelines.
+8. Scenario-Based or Comparative Questions
+Question: If baggage is lost during a connecting flight, will the claim be covered?
+Answer Example: Yes, if the baggage loss occurs during the transit on a trip covered by the policy and a Property Irregularity Report is obtained from the airline, the total loss benefit applies, subject to the policy terms.
+Summary
+This structured framework helps ensure comprehensive understanding and accurate extraction of information from the policy document. If you'd like, I can craft more specific questions tailored to particular sections or simulate a full Q&A session for detailed use cases.
+
+like these patterns read whole docments and tell what type of question patters can be formed and also what would be the answer template 
+pdf no. 3 prompt training 
+Based on your detailed analysis of the Cholamandalam MS Group Domestic Travel Insurance Policy, and how it has structured its clauses, definitions, benefits, exclusions, and endorsements, the types of question patterns and answer formats that can be generated from the full document fall into 7 major categories with further sub-types.
+Here is a structured breakdown:
+✅ 1. Definition and Explanation Questions
+Purpose: Clarify the meaning of policy-specific terms and clauses.
+Examples:
+"What is an 'accident' as defined in the policy?"
+"Define 'medical necessity' under this insurance."
+Answer Format:
+Explanatory: Detailed explanation quoting or paraphrasing definitions from the policy document.
+Reference-based: Citing the clause or endorsement number.
+✅ 2. Coverage and Benefit-Related Questions
+Purpose: Understand the inclusions, limits, and scope of the policy.
+Examples:
+"Does the policy cover trip cancellation due to illness?"
+"What benefits are provided under the checked-in baggage loss section?"
+Answer Format:
+Factual and Quantitative: Clearly listing what is covered, the monetary limits, duration, conditions.
+Conditional: “Yes, but only if…” scenarios.
+✅ 3. Claims Process and Procedure Questions
+Purpose: Provide guidance on how to initiate and complete a claim.
+Examples:
+"What is the procedure for filing a claim for medical expenses?"
+"Which documents are required for submitting a claim on baggage delay?"
+Answer Format:
+Step-by-step / Procedural
+Bullet-point listing of required documents
+Deadlines or timelines included
+✅ 4. Exclusion and Limitation Questions
+Purpose: Understand what is not covered and under what conditions.
+Examples:
+"Are expenses due to self-inflicted injuries covered?"
+"What general exclusions apply to this policy?"
+Answer Format:
+Factual with references to clauses or exclusions.
+List format for multiple exclusions.
+Conditional clarifications — "excluded unless…" scenarios.
+✅ 5. Policy Conditions and Limitations Questions
+Purpose: Clarify conditions like deductibles, waiting periods, or pre-existing disease terms.
+Examples:
+"What is the waiting period for coverage of hospitalization?"
+"Is there a deductible for trip delay claims?"
+Answer Format:
+Quantitative: Specific timeframes, monetary values.
+Conditional: "Only if the trip duration exceeds…"
+✅ 6. Endorsements and Optional Add-ons Questions
+Purpose: Explore additional benefits or coverage extensions.
+Examples:
+"Is compassionate visit coverage included or optional?"
+"Are dental treatments included as an add-on?"
+Answer Format:
+Yes/No with explanation.
+Reference-based (e.g., "as per Endorsement 9B").
+Scope and Limit Clarification
+✅ 7. Scenario-Based and Comparative Questions
+Purpose: Test how the policy applies in real-world or edge-case scenarios.
+Examples:
+"What if baggage is lost during a connecting flight?"
+"Are medical expenses covered if treatment is taken outside the city of travel?"
+Answer Format:
+Conditional and explanatory
+Policy clause mapping to the described scenario.
+Sometimes a combination of multiple policy sections.
+🧠 Additional Patterns for Smart Retrieval Systems
+If this PDF is being used to train or fine-tune an LLM-powered document Q&A system, additional question formats can be categorized as:
+TypeSubcategorySample QuestionYes/NoBinary decision"Is there coverage for loss of passport?"Who/What/WhereEntity extraction"What is the maximum sum insured under trip cancellation?"WhenTimeline/date-based"When should a claim be reported after an incident?"How much/manyNumerical value-based"How much is reimbursed per day under daily allowance?"Process/HowInstructional"How do I report baggage loss?"Why not coveredException based"Why is pregnancy excluded under medical coverage?"Clause locatorDocument mapping"Which clause talks about trip interruption coverage?"
+pdf no. 4 prompt training 
+✅ 1. Definition and Explanation Questions
+Purpose: Clarify policy-specific terminology.Patterns:
+What is [term] as defined in the policy?
+Define “[term]” under this insurance.
+How is “[term]” interpreted in the context of this policy?
+Sample Prompts:
+What is an "Accident" under this policy?
+Define "Medical Necessity" in HDFC ERGO Easy Health.
+What is meant by “AYUSH Day Care Centre”?
+Answer Format:
+Explanatory: Quote/paraphrase with full clarity
+Reference-based: Refer to section or clause number
+✅ 2. Coverage and Benefit-Related Questions
+Purpose: Understand inclusions, limits, scopePatterns:
+Does the policy cover [event]?
+What are the benefits of [feature]?
+Are expenses for [scenario] reimbursed?
+Sample Prompts:
+What benefits are provided under domiciliary treatment?
+Is ambulance expense covered? If so, how much?
+Does the policy cover AYUSH treatments?
+Answer Format:
+Factual: Inclusions, limits, conditions
+Conditional: “Yes, but only if…” format
+✅ 3. Claims Process and Procedure Questions
+Purpose: Explain how to initiate and settle claimsPatterns:
+How do I file a claim for [condition]?
+What documents are required for [claim type]?
+What are the steps to avail cashless service?
+Sample Prompts:
+How can I claim post-hospitalization expenses?
+What’s the claim process for Critical Illness?
+Which documents are needed for organ donor claim?
+Answer Format:
+Step-by-step: Sequential process
+Checklist: Required documents, deadlines
+✅ 4. Exclusion and Limitation Questions
+Purpose: Understand what is not coveredPatterns:
+Are [events] excluded from coverage?
+What general exclusions apply?
+Is there a waiting period for [condition]?
+Sample Prompts:
+Are self-inflicted injuries covered under this policy?
+What are the general exclusions in Section C?
+Is obesity-related surgery included?
+Answer Format:
+List: Grouped exclusions
+Conditional: “Excluded unless…”
+Referenced: Clause code (e.g., Excl09, Excl01)
+✅ 5. Policy Conditions and Limitations Questions
+Purpose: Explore waiting periods, deductibles, capsPatterns:
+What is the waiting period for [condition]?
+Is there a deductible or co-pay for [benefit]?
+How is cumulative bonus calculated?
+Sample Prompts:
+What are the specific diseases with 24-month waiting periods?
+Are newborns covered from birth?
+How is Stay Active discount applied?
+Answer Format:
+Quantitative: Values, timeframes
+Conditional: "Applies only if…"
+✅ 6. Endorsements and Optional Add-ons
+Purpose: Understand optional or extended coveragePatterns:
+Is [benefit] included by default or needs to be added?
+Is [feature] an optional rider?
+Under which section is [add-on] covered?
+Sample Prompts:
+Is Maternity covered as default or optional?
+What are the conditions to add Critical Illness cover?
+Are newborns automatically covered?
+Answer Format:
+Yes/No with explanation
+Reference-based: Mention policy section (e.g., Section B-2-b)
+Clarification: Scope, conditions, premium requirement
+✅ 7. Scenario-Based and Comparative Questions
+Purpose: Apply policy to real-life or edge casesPatterns:
+What happens if [scenario] occurs?
+Will this be covered if [situation]?
+Compare [X benefit] under two situations.
+Sample Prompts:
+If a person is hospitalized for 10+ days, what recovery benefit is available?
+Is a claim payable if a treatment is taken in a non-network hospital?
+What happens if the insured dies during the policy term?
+Answer Format:
+Explanatory: With mapped clauses
+Conditional logic: “If…, then…”
+Comparative analysis
+🧠 Additional Prompt Engineering Patterns for LLM Systems
+TypeSubcategorySample QuestionYes/NoBinary decisionIs dental treatment covered?Who/What/WhereEntity ExtractionWhat is the maximum limit for air ambulance coverage?WhenTimeline/date-basedWhen should maternity be reported for coverage?How much/manyNumericalHow much daily cash is payable under shared accommodation?Process/HowInstructionalHow to activate Stay Active discount?Why not coveredException logicWhy is cosmetic surgery excluded from coverage?Clause LocatorDocument navigationWhich section defines "Medically Necessary"?
+Would you like a JSON, CSV, or Markdown table version of this Q&A prompt structure for system integration or internal training use?
+pdf no. 5 prompt training 
+✅ Complete Taxonomy of Question Prompts & Answer Formats for This Policy
+1. Definition and Explanation Questions
+Purpose: Clarify meanings of terms defined in the policy.
+Patterns:
+What is “[term]” as defined in the policy?
+Define “[term]” under this insurance.
+How is “[term]” interpreted in the context of this policy?
+Examples:
+What does “AYUSH Day Care Centre” mean?
+Define “Medically Necessary Treatment” under this policy.
+What is “Cumulative Bonus”?
+Answer Format:
+Explanatory: With detailed, clear wording, e.g., directly quoting or paraphrasing.
+Reference-based: Include clause/page reference if available.
+2. Coverage and Benefit-Related Questions
+Purpose: Understand what is covered, how much, and under what circumstances.
+Patterns:
+Does the policy cover [event]?
+What benefits are offered under [benefit type]?
+Are expenses for [scenario] reimbursed?
+Examples:
+Does this policy cover AYUSH treatment?
+What are the sub-limits for cataract treatment?
+Is ambulance transportation covered?
+Answer Format:
+Factual: Mention limits, eligible conditions.
+Conditional: “Yes, but only if…” format with criteria explained.
+3. Claims Process and Procedure Questions
+Purpose: Guide users through how to file and process claims.
+Patterns:
+How do I file a claim for [type]?
+What documents are required for [claim]?
+What is the reimbursement procedure?
+Examples:
+How to file a claim for organ donor hospitalization?
+What are the steps to claim post-hospitalization expenses?
+Answer Format:
+Step-by-step: Sequential claim process.
+Checklist: List of required documentation or steps.
+Cautions: Note disqualification conditions (e.g., no prior approval).
+4. Exclusion and Limitation Questions
+Purpose: Highlight what is not covered.
+Patterns:
+Are [conditions] excluded?
+What are general exclusions?
+Is there a waiting period for [condition]?
+Examples:
+Are cosmetic surgeries covered?
+What are the exclusions for domiciliary hospitalization?
+Are dental treatments included?
+Answer Format:
+List format: Bullet out exclusions.
+Clause-based: Mention relevant sections (e.g., "See Section D.7").
+Conditional: Excluded unless specific criteria are met.
+5. Policy Conditions and Limitations Questions
+Purpose: Understand waiting periods, deductibles, caps.
+Patterns:
+What is the deductible amount for [claim]?
+How does cumulative bonus work?
+What are the sub-limits for [treatment]?
+Examples:
+What’s the waiting period for maternity cover?
+How is the reset benefit applied?
+Answer Format:
+Quantitative: State values, percentages, days.
+Explanatory: Explain logic and when conditions apply.
+6. Endorsements and Optional Add-ons Questions
+Purpose: Explore add-on benefits and their terms.
+Patterns:
+Is [coverage] optional or in-built?
+What are the benefits of [rider]?
+Can I opt to reduce co-payment?
+Examples:
+What is the Claim Protector benefit?
+Is “Modification of Base Co-payment” allowed mid-policy?
+Answer Format:
+Yes/No: With explanation.
+Scope clarification: Explain eligibility, extra premiums required.
+Reference-based: Mention endorsement name/section.
+7. Scenario-Based and Comparative Questions
+Purpose: Explain policy response in edge cases or compare two options.
+Patterns:
+What happens if [event] occurs?
+Will it be covered if [condition] applies?
+Compare benefits of [X vs Y].
+Examples:
+Is home care covered if no empanelled provider is available?
+Will air ambulance be covered for inter-hospital transfer?
+Answer Format:
+Explanatory: Include reasoning and conditions.
+Conditional logic: “If X, then Y.”
+Comparison table: When necessary.
+🧠 Additional Prompt Engineering Patterns for AI/LLM Systems
+TypeSubcategoryExample PromptAnswer FormatYes/NoBinaryIs robotic surgery covered?Yes/No with conditionsWho/What/WhereEntity ExtractionWhat is the limit for air ambulance coverage?Factual, numericalWhenTimeline/DateWhen does waiting period for critical illness start?Timeline (e.g., 90 days)How much/manyQuantitativeHow much is payable per eye for cataract?Limit (₹ value)How (Process)InstructionalHow to get a second e-opinion?Step-by-step, channelsWhy not coveredException logicWhy is epilepsy excluded from domiciliary cover?Clause/exclusion-basedClause locatorDocument navigationWhere is “Post Hospitalization” defined?Section reference
+📊 Suggested Output Formats
+Would you like the taxonomy above in any of the following formats?
+✅ JSON (for chatbot or API logic integration)
+✅ CSV (for Excel import or review by product/ops team)
+✅ Markdown (for documentation/internal wiki)
+Let me know, and I’ll generate the structured file for you instantly.
+Structure to be followed for the prompting
+# -----------------------------
+# FEW-SHOT PROMPT TRAINING FOR RAG SYSTEM USING LANGCHAIN
+# -----------------------------
+
+from langchain.prompts import PromptTemplate
+from langchain.chains import LLMChain
+from langchain.llms import HuggingFaceHub  # or OpenAI if applicable
+
+# Load your model (example with Hugging Face)
+llm = HuggingFaceHub(repo_id="HuggingFaceH4/zephyr-7b-beta", model_kwargs={"temperature":0.3, "max_new_tokens":500})
+
+# ---------------------------------------------
+# STEP 1: CREATE FEW-SHOT EXAMPLES
+# ---------------------------------------------
+few_shot_examples = [
+    {
+        "context": "A grace period of thirty days is provided for premium payment.",
+        "query": "What is the grace period for premium payment under this policy?",
+        "answer": "A grace period of thirty days is provided for premium payment after the due date."
+    },
+    {
+        "context": "There is a waiting period of thirty-six months for pre-existing diseases.",
+        "query": "How long is the waiting period for pre-existing diseases?",
+        "answer": "The waiting period for pre-existing diseases is thirty-six months."
+    },
+    {
+        "context": "The policy covers maternity expenses if the female insured is covered for 24 months.",
+        "query": "Is maternity covered and what are the conditions?",
+        "answer": "Yes, it is covered if the female insured has continuous coverage for 24 months."
+    }
+]
+
+# ---------------------------------------------
+# STEP 2: CREATE PROMPT TEMPLATE
+# ---------------------------------------------
+prompt_template = PromptTemplate(
+    input_variables=["context", "query"],
+    template="""
+Here is some context from an insurance policy:
+{context}
+
+Question:
+{query}
+
+Answer as precisely as possible:
+"""
+)
+
+# ---------------------------------------------
+# STEP 3: GENERATE TRAINING PROMPTS FOR FEW-SHOT
+# ---------------------------------------------
+def build_prompt(context, query):
+    return prompt_template.format(context=context, query=query)
+
+# Example use case
+for example in few_shot_examples:
+    full_prompt = build_prompt(example["context"], example["query"])
+    print("\n==== PROMPT ====")
+    print(full_prompt)
+    print("\n==== EXPECTED OUTPUT ====")
+    print(example["answer"])
+
+# ---------------------------------------------
+# STEP 4: USE LLM TO GENERATE PREDICTIONS
+# ---------------------------------------------
+rag_chain = LLMChain(llm=llm, prompt=prompt_template)
+
+# Example inference
+response = rag_chain.run({
+    "context": "The policy defines a hospital as an institution with 15 inpatient beds.",
+    "query": "How does the policy define a hospital?"
+})
+
+print("\n==== LLM RESPONSE ====")
+print(response)
+
+# ---------------------------------------------
+# STEP 5: INTEGRATION WITH VECTOR STORE (Pinecone/FAISS)
+# ---------------------------------------------
+# When a query is received:
+# 1. Use vector DB (Pinecone) to retrieve top-k relevant contexts.
+# 2. Feed each into the prompt above and call LLM.
+# 3. Rank/select best answer (optionally add reranker).
+
+# Example pipeline sketch:
+# query = "Is cataract covered?"
+# top_k_contexts = retriever.get_relevant_documents(query)
+# for context in top_k_contexts:
+#     prompt = build_prompt(context, query)
+#     answer = llm_chain.run({"context": context, "query": query})
+#     store or display answer
+
+# ------------------------
+# Notes:
+# - You can extend few_shot_examples from your dataset.
+# - Store these in a CSV/JSON file for training or fine-tuning.
+# - This is ideal for zero-cost prompt-based learning without fine-tuning weights.
+# ------------------------
+
+training model ....using prompt methodology ...
+✅ Part 1: Few-Shot Prompt Training Dataset (All 9 Types with Examples)
+We create a list of training examples, each in "question-answer" format, based on your 9 categories:
+1. Definition & Explanation
+json
+CopyEdit
+{ "question": "How does the policy define a 'Hospital'?", "answer": "A hospital is any institution established for in-patient care and day care treatment of illness and/or injuries..."}
+2. Coverage & Benefits
+json
+CopyEdit
+{ "question": "Does this policy cover AYUSH treatments?", "answer": "Yes, AYUSH treatments are covered if the treatment is taken in a government hospital or any institution recognized by the government."}
+3. Waiting Period & Eligibility
+json
+CopyEdit
+{ "question": "What is the waiting period for cataract surgery?", "answer": "Cataract surgery has a waiting period of 24 months from the inception of the policy."}
+4. Exclusions & Limits
+json
+CopyEdit
+{ "question": "Are there sub-limits on ICU charges?", "answer": "Yes, ICU charges are limited to 2% of the sum insured per day for standard plans."}
+5. Claim Process & Documentation
+json
+CopyEdit
+{ "question": "What documents are needed to claim post-hospitalization expenses?", "answer": "You will need hospital discharge summary, doctor's prescription, original bills and receipts."}
+6. Additional Benefits & Riders
+json
+CopyEdit
+{ "question": "Does the policy offer a No Claim Discount?", "answer": "Yes, the No Claim Discount of up to 50% on the base premium is offered for each claim-free year."}
+7. Policy Terms & Conditions
+json
+CopyEdit
+{ "question": "What is the grace period for premium payment?", "answer": "The policy provides a 30-day grace period from the premium due date."}
+8. Key Definitions
+json
+CopyEdit
+{ "question": "What is considered inpatient treatment?", "answer": "Inpatient treatment means treatment for which the insured person has to stay in a hospital for more than 24 hours."}
+9. Special Conditions
+json
+CopyEdit
+{ "question": "What conditions apply for organ donor expenses?", "answer": "Organ donor expenses are covered only if the transplant is medically necessary and the organ is donated legally."}
+You now have few-shot training data for in-context prompting.
+✅ Part 2: LangChain Code – In-Context Few-Shot Prompt Template
+Here’s how ybyou can create a prompt template with few-shot examples:
+python
+CopyEdit
+from langchain.prompts.few_shot import FewShotPromptTemplate from langchain.prompts import PromptTemplate  # Format for each example example_prompt = PromptTemplate( input_variables=["question", "answer"], template="Q: {question}\nA: {answer}\n" )  # Few-shot examples (from above) examples = [ {"question": "How does the policy define a 'Hospital'?", "answer": "A hospital is..."}, {"question": "Does this policy cover AYUSH treatments?", "answer": "Yes, AYUSH..."}, {"question": "What is the waiting period for cataract surgery?", "answer": "24 months..."}, {"question": "Are there sub-limits on ICU charges?", "answer": "Yes, ICU charges..."}, {"question": "What documents are needed to claim post-hospitalization expenses?", "answer": "Discharge summary..."}, {"question": "Does the policy offer a No Claim Discount?", "answer": "Yes, up to 50%..."}, {"question": "What is the grace period for premium payment?", "answer": "30 days..."}, {"question": "What is considered inpatient treatment?", "answer": "Treatment over 24 hours..."}, {"question": "What conditions apply for organ donor expenses?", "answer": "Covered if medically necessary..."} ]  # Combine examples into a full prompt prompt = FewShotPromptTemplate( examples=examples, example_prompt=example_prompt, prefix="The following are questions and answers about a health insurance policy:\n", suffix="Q: {input}\nA:", input_variables=["input"], )  final_prompt = prompt.format(input="Is maternity covered under this policy?") print(final_prompt)
+✅ Part 3: Use with LLM + Vector Store (Pinecone/Retrieval)
+Here's how to combine it with a vector store retriever (like Pinecone):
+python
+CopyEdit
+from langchain.chains import RetrievalQA from langchain.vectorstores import Pinecone from langchain.embeddings import HuggingFaceEmbeddings from langchain.llms import HuggingFaceHub  # or OpenAI if needed# 1. Load your vector DB retriever = Pinecone.from_existing_index( index_name="your-pinecone-index", embedding=HuggingFaceEmbeddings() ).as_retriever()  # 2. Load your model llm = HuggingFaceHub(repo_id="google/flan-t5-base", model_kwargs={"temperature": 0.3})  # 3. Create RAG Chain with Prompt rag_chain = RetrievalQA.from_chain_type( llm=llm, chain_type="stuff", retriever=retriever, chain_type_kwargs={"prompt": prompt} )  # 4. Ask question response = rag_chain.run("Is there coverage for OPD expenses?") print(response)
+✅ Summary: Full Workflow
+StepToolWhat it Does1PromptTemplateCreates consistent Q&A format2FewShotPromptTemplateTeaches LLM using examples3VectorStore (Pinecone)Stores and retrieves similar contexts4LangChain RAG ChainCombines LLM + Retriever5Hugging Face / OpenAILLM to generate generalized answers
+Would you like me to generate a working RAGConfig.yaml for LangChain or Streamlit demo script to test this live?
+Also, let me know if you want:
+🧠 Cosine similarity thresholding for better match
+🧪 LangChain eval testing with accuracy metrics
+🌐 Deployment to Hugging Face Spaces or Streamlit Cloud
+Just say the word.

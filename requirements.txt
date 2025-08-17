@@ -1,0 +1,52 @@
+# ===============================================================================
+# COMPLETE DEPENDENCIES FOR RAG SYSTEM
+# ===============================================================================
+
+# Core Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+python-dotenv==1.0.0
+
+# Logging and Utilities
+structlog==23.2.0
+python-json-logger==2.0.7
+
+# Google Gemini AI (CRITICAL - Fixes import errors)
+google-generativeai==0.8.3
+google-ai-generativelanguage==0.6.0
+google-auth==2.28.1
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+
+# LangChain Dependencies (CRITICAL - RAG System Core)
+langchain==0.1.0
+langchain-core==0.1.0
+langchain-google-genai==0.0.6
+langchain-pinecone==0.1.0
+langchain-huggingface==0.0.6
+langchain-community==0.0.20
+
+# Vector Database
+pinecone-client==3.0.0
+
+# Hugging Face Integration
+huggingface-hub==0.19.4
+
+# Document Processing
+PyPDF2==3.0.1
+pdfplumber==0.10.3
+python-docx==1.1.0
+openpyxl==3.1.2
+Pillow==10.1.0
+pytesseract==0.3.10
+
+# Data Processing
+numpy==2.3.1
+pandas==2.1.4
+scikit-learn==1.3.2
+
+# ===============================================================================
+# INSTALLATION COMMAND:
+# pip install -r requirements.txt
+# ===============================================================================

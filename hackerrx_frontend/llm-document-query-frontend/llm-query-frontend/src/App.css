@@ -1,0 +1,133 @@
+/* Ensure full height and scroll globally */
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: auto;
+  font-family: sans-serif;
+}
+
+/* Main App container */
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  overflow-y: auto; 
+  /* prevent double scrollbars */
+}
+
+/* Header section (if used) */
+.App-header {
+  background-color: #282c34;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 2rem;
+  overflow-y: auto;  
+  font-size: calc(10px + 2vmin);
+  color: white;
+  overflow-y: auto;
+  width: 100%;
+}
+
+/* Animated logo (optional) */
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to   { transform: rotate(360deg); }
+}
+
+/* Upload form container with scroll support */
+.upload-form-wrapper {
+  min-height: 100vh;
+  flex: 1;
+  overflow-y: auto;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2rem;
+  box-sizing: border-box;
+  background-color: #f8f9fa;
+  width: 100%;
+}
+
+/* Upload form box styling */
+.upload-form {
+  background: white;
+  border-radius: 12px;
+  padding: 2rem;
+  max-width: 600px;
+  width: 100%;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+/* Dropzone styles */
+.dropzone {
+  border: 2px dashed #888;
+  padding: 2rem;
+  width: 100%;
+  border-radius: 10px;
+  background: #f0f0f0;
+  transition: background 0.3s;
+  cursor: pointer;
+}
+
+.dropzone.active {
+  background: #e3f2fd;
+}
+
+/* Inside dropzone content */
+.dropzone-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  color: #444;
+}
+
+.dropzone-icon {
+  color: #1976d2;
+}
+
+/* Upload button styling */
+button {
+  padding: 0.6rem 1.5rem;
+  font-size: 1rem;
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+
+button:hover:not(:disabled) {
+  background-color: #125ca1;
+}
+
+button:disabled {
+  background-color: #aaa;
+  cursor: not-allowed;
+}
+
+/* Optional: App link */
+.App-link {
+  color: #61dafb;
+}

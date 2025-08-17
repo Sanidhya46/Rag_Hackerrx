@@ -1,0 +1,364 @@
+2025-08-13 17:12:13,872 - main - INFO - Initializing RAG system components...
+2025-08-13 17:12:14,942 - main - ERROR - Failed to initialize system on startup
+2025-08-13 17:20:23,325 - main - ERROR - Failed to process document: name 'PDFParser' is not defined
+2025-08-13 17:20:23,343 - main - ERROR - Traceback (most recent call last):
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\main.py", line 178, in upload_document
+    pdf_loader = PDFLoader()
+                 ^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\loaders\pdf_loader.py", line 45, in __init__
+    self.pdf_parser = PDFParser()
+                      ^^^^^^^^^
+NameError: name 'PDFParser' is not defined
+
+2025-08-13 17:45:52,989 - main - INFO - Initializing RAG system components...
+2025-08-13 17:45:54,851 - main - ERROR - Failed to initialize system on startup
+2025-08-13 20:10:59,571 - main - INFO - Initializing RAG system components...
+2025-08-13 20:11:01,662 - main - INFO - Gemini embedder initialized successfully
+2025-08-13 20:11:01,663 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-13 20:11:01,663 - main - INFO - RAG system initialization completed
+2025-08-13 20:12:24,367 - main - ERROR - Failed to process document: name 'PDFParser' is not defined
+2025-08-13 20:12:24,447 - main - ERROR - Traceback (most recent call last):
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\main.py", line 178, in upload_document
+    pdf_loader = PDFLoader()
+                 ^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\loaders\pdf_loader.py", line 45, in __init__
+    self.pdf_parser = PDFParser()
+                      ^^^^^^^^^
+NameError: name 'PDFParser' is not defined
+
+2025-08-14 18:54:08,636 - main - INFO - Initializing RAG system components...
+2025-08-14 18:54:09,281 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 18:54:09,282 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 18:54:09,283 - main - INFO - RAG system initialization completed
+2025-08-14 18:56:21,986 - main - ERROR - Failed to process document: name 'PDFParser' is not defined
+2025-08-14 18:56:22,001 - main - ERROR - Traceback (most recent call last):
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\main.py", line 178, in upload_document
+    pdf_loader = PDFLoader()
+                 ^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\loaders\pdf_loader.py", line 45, in __init__
+    self.pdf_parser = PDFParser()
+                      ^^^^^^^^^
+NameError: name 'PDFParser' is not defined
+
+2025-08-14 19:01:13,449 - main - INFO - Initializing RAG system components...
+2025-08-14 19:01:14,098 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 19:01:14,100 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 19:01:14,101 - main - INFO - RAG system initialization completed
+2025-08-14 19:06:10,789 - main - INFO - Initializing RAG system components...
+2025-08-14 19:06:11,382 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 19:06:11,383 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 19:06:11,385 - main - INFO - RAG system initialization completed
+2025-08-14 19:08:40,467 - main - INFO - Document doc_1755178720_ICIHLIP22012V012223.pdf processed successfully in 0.44s
+2025-08-14 19:11:15,459 - main - INFO - Initializing RAG system components...
+2025-08-14 19:11:17,202 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 19:11:17,203 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 19:11:17,203 - main - INFO - RAG system initialization completed
+2025-08-14 19:14:22,533 - main - INFO - Initializing RAG system components...
+2025-08-14 19:14:24,318 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 19:14:24,319 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 19:14:24,319 - main - INFO - RAG system initialization completed
+2025-08-14 19:14:29,602 - main - INFO - Document doc_1755179069_ICIHLIP22012V012223.pdf processed successfully in 0.05s
+2025-08-14 19:19:14,224 - main - INFO - Initializing RAG system components...
+2025-08-14 19:19:15,153 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 19:19:15,154 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 19:19:15,154 - main - INFO - RAG system initialization completed
+2025-08-14 19:22:26,370 - main - INFO - Initializing RAG system components...
+2025-08-14 19:22:28,684 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 19:22:28,685 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 19:22:28,686 - main - INFO - RAG system initialization completed
+2025-08-14 19:32:57,859 - main - INFO - Initializing RAG system components...
+2025-08-14 19:33:02,183 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 19:33:02,184 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 19:33:02,184 - main - INFO - RAG system initialization completed
+2025-08-14 19:54:31,040 - main - INFO - Document doc_1755181470_ICIHLIP22012V012223.pdf processed successfully in 0.53s
+2025-08-14 20:02:54,911 - main - INFO - Document doc_1755181974_ICIHLIP22012V012223.pdf processed successfully in 0.08s
+2025-08-14 20:21:13,976 - main - INFO - Document doc_1755183073_ICIHLIP22012V012223.pdf processed successfully in 0.10s
+2025-08-14 20:49:33,626 - main - INFO - Initializing RAG system components...
+2025-08-14 20:49:35,551 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 20:49:35,556 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 20:49:35,558 - main - INFO - RAG system initialization completed
+2025-08-14 21:06:34,693 - main - INFO - Initializing RAG system components...
+2025-08-14 21:06:35,536 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 21:06:35,536 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 21:06:35,537 - main - INFO - RAG system initialization completed
+2025-08-14 21:09:07,829 - main - ERROR - Failed to process document: 'TextChunk' object has no attribute 'strip'
+2025-08-14 21:09:07,830 - main - ERROR - Traceback (most recent call last):
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\main.py", line 197, in upload_document
+    chunks = [c.strip() for c in chunks if c.strip()]  # remove empty chunks
+                                           ^^^^^^^
+AttributeError: 'TextChunk' object has no attribute 'strip'
+
+2025-08-14 21:11:34,171 - main - INFO - Initializing RAG system components...
+2025-08-14 21:11:34,791 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 21:11:34,791 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 21:11:34,791 - main - INFO - RAG system initialization completed
+2025-08-14 21:19:53,253 - main - INFO - Initializing RAG system components...
+2025-08-14 21:19:55,163 - main - INFO - Gemini embedder initialized successfully
+2025-08-14 21:19:55,163 - main - INFO - Enhanced text splitter initialized successfully
+2025-08-14 21:19:55,164 - main - INFO - RAG system initialization completed
+2025-08-14 21:21:06,277 - main - INFO - Document doc_1755186637_ICIHLIP22012V012223.pdf processed successfully in 28.64s
+2025-08-15 08:44:28,517 - main - INFO - Initializing RAG system components...
+2025-08-15 08:44:28,611 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 08:44:28,611 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 08:44:36,730 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 08:44:36,731 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 08:44:36,731 - main - INFO - RAG system initialization completed
+2025-08-15 09:02:18,938 - main - INFO - Upserted 176 chunks for doc_1755228716_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 09:02:18,938 - main - INFO - Document doc_1755228716_ICIHLIP22012V012223.pdf processed successfully in 22.78s
+2025-08-15 09:02:31,328 - main - INFO - Query processed successfully in 4.50s
+2025-08-15 09:31:08,370 - main - INFO - Initializing RAG system components...
+2025-08-15 09:31:08,424 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 09:31:08,424 - main - ERROR - Failed to initialize RAG system: Got a larger chunk overlap (200) than chunk size (100), should be smaller.
+2025-08-15 09:31:08,426 - main - ERROR - Traceback (most recent call last):
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\main.py", line 125, in initialize_system
+    text_splitter = RecursiveCharacterTextSplitter(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\langchain_text_splitters\character.py", line 73, in __init__
+    super().__init__(keep_separator=keep_separator, **kwargs)
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\langchain_text_splitters\base.py", line 55, in __init__
+    raise ValueError(
+ValueError: Got a larger chunk overlap (200) than chunk size (100), should be smaller.
+
+2025-08-15 09:31:08,426 - main - ERROR - Failed to initialize system on startup
+2025-08-15 09:39:21,403 - main - ERROR - Failed to process document: 'NoneType' object has no attribute 'split_text'
+2025-08-15 09:39:21,406 - main - ERROR - Traceback (most recent call last):
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\main.py", line 230, in upload_document
+    chunks = text_splitter.split_text(text_content)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'split_text'
+
+2025-08-15 09:39:54,443 - main - INFO - Initializing RAG system components...
+2025-08-15 09:39:54,471 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 09:39:54,471 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 09:39:58,036 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 09:39:58,037 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 09:39:58,038 - main - INFO - RAG system initialization completed
+2025-08-15 09:40:25,061 - main - INFO - Upserted 176 chunks for doc_1755231002_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 09:40:25,062 - main - INFO - Document doc_1755231002_ICIHLIP22012V012223.pdf processed successfully in 22.74s
+2025-08-15 09:40:36,548 - main - INFO - Query processed successfully in 7.90s
+2025-08-15 09:41:03,033 - main - INFO - Query processed successfully in 8.31s
+2025-08-15 09:41:37,961 - main - INFO - Query processed successfully in 4.75s
+2025-08-15 09:43:01,147 - main - INFO - Query processed successfully in 9.20s
+2025-08-15 09:43:32,351 - main - INFO - Query processed successfully in 2.20s
+2025-08-15 09:58:41,634 - main - INFO - Initializing RAG system components...
+2025-08-15 09:58:41,659 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 09:58:41,660 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 09:58:46,982 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 09:58:46,983 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 09:58:46,984 - main - INFO - RAG system initialization completed
+2025-08-15 10:19:49,981 - main - INFO - Initializing RAG system components...
+2025-08-15 10:19:50,017 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 10:19:50,017 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 10:19:53,802 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 10:19:53,803 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 10:19:53,805 - main - INFO - RAG system initialization completed
+2025-08-15 10:28:13,146 - main - INFO - Initializing RAG system components...
+2025-08-15 10:28:13,173 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 10:28:13,173 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 10:28:17,351 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 10:28:17,351 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 10:28:17,352 - main - INFO - RAG system initialization completed
+2025-08-15 11:59:40,838 - main - INFO - Initializing RAG system components...
+2025-08-15 11:59:40,959 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 11:59:40,959 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 11:59:46,021 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 11:59:46,022 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 11:59:46,023 - main - INFO - RAG system initialization completed
+2025-08-15 14:34:50,229 - main - INFO - Initializing RAG system components...
+2025-08-15 14:34:50,285 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 14:34:50,285 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 14:34:53,279 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 14:34:53,279 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 14:34:53,280 - main - INFO - RAG system initialization completed
+2025-08-15 14:35:43,262 - main - INFO - Upserted 176 chunks for doc_1755248710_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 14:35:43,263 - main - INFO - Document doc_1755248710_ICIHLIP22012V012223.pdf processed successfully in 33.05s
+2025-08-15 14:35:57,812 - main - ERROR - Failed to process query: 401 Client Error: Unauthorized for url: https://router.huggingface.co/nebius/v1/chat/completions (Request ID: Root=1-689ef877-19199a0a4874f1bb2a7ca6b7;f6b7bc0f-517e-43b8-88a5-96d4028f723b)
+
+User Access Token "Langchain" is expired
+2025-08-15 14:35:58,361 - main - ERROR - Traceback (most recent call last):
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\huggingface_hub\utils\_http.py", line 409, in hf_raise_for_status
+    response.raise_for_status()
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\requests\models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://router.huggingface.co/nebius/v1/chat/completions
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\main.py", line 448, in query_documents
+    llm_response = model.predict(prompt)
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\langchain_core\_api\deprecation.py", line 189, in warning_emitting_wrapper
+    return wrapped(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1267, in predict
+    result = self([HumanMessage(content=text)], stop=stop_, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\langchain_core\_api\deprecation.py", line 189, in warning_emitting_wrapper
+    return wrapped(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1207, in __call__
+    generation = self.generate(
+                 ^^^^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\langchain_core\language_models\chat_models.py", line 782, in generate
+    self._generate_with_cache(
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\langchain_core\language_models\chat_models.py", line 1028, in _generate_with_cache
+    result = self._generate(
+             ^^^^^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\langchain_huggingface\chat_models\huggingface.py", line 574, in _generate
+    answer = self.llm.client.chat_completion(messages=message_dicts, **params)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\huggingface_hub\inference\_client.py", line 924, in chat_completion
+    data = self._inner_post(request_parameters, stream=stream)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\huggingface_hub\inference\_client.py", line 280, in _inner_post
+    hf_raise_for_status(response)
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\env\Lib\site-packages\huggingface_hub\utils\_http.py", line 482, in hf_raise_for_status
+    raise _format(HfHubHTTPError, str(e), response) from e
+huggingface_hub.errors.HfHubHTTPError: 401 Client Error: Unauthorized for url: https://router.huggingface.co/nebius/v1/chat/completions (Request ID: Root=1-689ef877-19199a0a4874f1bb2a7ca6b7;f6b7bc0f-517e-43b8-88a5-96d4028f723b)
+
+User Access Token "Langchain" is expired
+
+2025-08-15 14:39:59,071 - main - INFO - Initializing RAG system components...
+2025-08-15 14:39:59,119 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 14:39:59,120 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 14:40:02,852 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 14:40:02,852 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 14:40:02,853 - main - INFO - RAG system initialization completed
+2025-08-15 14:40:49,475 - main - INFO - Upserted 176 chunks for doc_1755249024_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 14:40:49,476 - main - INFO - Document doc_1755249024_ICIHLIP22012V012223.pdf processed successfully in 24.59s
+2025-08-15 14:43:06,935 - main - INFO - Query processed successfully in 5.86s
+2025-08-15 14:45:37,554 - main - INFO - Query processed successfully in 3.37s
+2025-08-15 14:46:08,430 - main - INFO - Query processed successfully in 3.64s
+2025-08-15 14:55:15,782 - main - INFO - Query processed successfully in 4.95s
+2025-08-15 14:55:24,899 - main - INFO - Initializing RAG system components...
+2025-08-15 14:55:24,936 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 14:55:24,936 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 14:55:28,202 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 14:55:28,203 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 14:55:28,203 - main - INFO - RAG system initialization completed
+2025-08-15 15:04:09,221 - main - INFO - Initializing RAG system components...
+2025-08-15 15:04:09,267 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 15:04:09,268 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 15:04:12,893 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 15:04:12,895 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 15:04:12,895 - main - INFO - RAG system initialization completed
+2025-08-15 15:05:06,611 - main - INFO - Initializing RAG system components...
+2025-08-15 15:05:06,638 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 15:05:06,639 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 15:05:10,173 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 15:05:10,173 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 15:05:10,173 - main - INFO - RAG system initialization completed
+2025-08-15 15:06:06,110 - main - INFO - Upserted 176 chunks for doc_1755250539_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 15:06:06,111 - main - INFO - Document doc_1755250539_ICIHLIP22012V012223.pdf processed successfully in 26.90s
+2025-08-15 15:07:07,166 - main - INFO - Query processed successfully in 3.87s
+2025-08-15 15:14:01,571 - main - INFO - Initializing RAG system components...
+2025-08-15 15:14:01,594 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 15:14:01,595 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 15:14:05,404 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 15:14:05,405 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 15:14:05,405 - main - INFO - RAG system initialization completed
+2025-08-15 15:14:12,430 - main - INFO - Initializing RAG system components...
+2025-08-15 15:14:12,465 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 15:14:12,468 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 15:14:15,766 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 15:14:15,766 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 15:14:15,767 - main - INFO - RAG system initialization completed
+2025-08-15 15:14:50,065 - main - INFO - Upserted 176 chunks for doc_1755251066_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 15:14:50,066 - main - INFO - Document doc_1755251066_ICIHLIP22012V012223.pdf processed successfully in 23.57s
+2025-08-15 15:15:56,943 - main - ERROR - Failed to process query: object str can't be used in 'await' expression
+2025-08-15 15:15:56,946 - main - ERROR - Traceback (most recent call last):
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\main.py", line 456, in query_documents
+    llm_response = await model.predict(prompt)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object str can't be used in 'await' expression
+
+2025-08-15 15:17:14,788 - main - ERROR - Failed to process query: object str can't be used in 'await' expression
+2025-08-15 15:17:14,793 - main - ERROR - Traceback (most recent call last):
+  File "C:\Users\sanid\OneDrive\Desktop\hackerx_vdb\main.py", line 456, in query_documents
+TypeError: object str can't be used in 'await' expression
+
+2025-08-15 15:17:56,479 - main - INFO - Upserted 176 chunks for doc_1755251251_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 15:17:56,481 - main - INFO - Document doc_1755251251_ICIHLIP22012V012223.pdf processed successfully in 24.71s
+2025-08-15 15:18:22,950 - main - INFO - Initializing RAG system components...
+2025-08-15 15:18:22,980 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 15:18:22,981 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 15:18:26,622 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 15:18:26,623 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 15:18:26,623 - main - INFO - RAG system initialization completed
+2025-08-15 15:18:32,900 - main - INFO - Initializing RAG system components...
+2025-08-15 15:18:32,925 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 15:18:32,926 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 15:18:36,363 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 15:18:36,364 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 15:18:36,365 - main - INFO - RAG system initialization completed
+2025-08-15 15:19:45,737 - main - INFO - Initializing RAG system components...
+2025-08-15 15:19:45,760 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 15:19:45,760 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 15:19:49,374 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 15:19:49,375 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 15:19:49,375 - main - INFO - RAG system initialization completed
+2025-08-15 15:20:25,275 - main - INFO - Upserted 176 chunks for doc_1755251401_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 15:20:25,275 - main - INFO - Document doc_1755251401_ICIHLIP22012V012223.pdf processed successfully in 23.37s
+2025-08-15 15:20:38,942 - main - INFO - Query processed successfully in 3.68s
+2025-08-15 15:34:01,033 - main - INFO - Initializing RAG system components...
+2025-08-15 15:34:01,084 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 15:34:01,084 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 15:34:04,733 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 15:34:04,734 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 15:34:04,734 - main - INFO - RAG system initialization completed
+2025-08-15 15:34:35,882 - main - INFO - Upserted 176 chunks for doc_1755252250_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 15:34:35,885 - main - INFO - Document doc_1755252250_ICIHLIP22012V012223.pdf processed successfully in 25.49s
+2025-08-15 15:34:47,227 - main - INFO - Query processed successfully in 2.56s
+2025-08-15 15:40:30,726 - main - INFO - Initializing RAG system components...
+2025-08-15 15:40:30,758 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 15:40:30,758 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 15:40:34,448 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 15:40:34,450 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 15:40:34,450 - main - INFO - RAG system initialization completed
+2025-08-15 15:43:33,807 - main - INFO - Initializing RAG system components...
+2025-08-15 15:43:33,844 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 15:43:33,845 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 15:43:38,140 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 15:43:38,141 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 15:43:38,141 - main - INFO - RAG system initialization completed
+2025-08-15 15:47:23,506 - main - INFO - Initializing RAG system components...
+2025-08-15 15:47:23,530 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 15:47:23,531 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 15:47:27,729 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 15:47:27,730 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 15:47:27,731 - main - INFO - RAG system initialization completed
+2025-08-15 15:49:31,741 - main - INFO - Upserted 176 chunks for doc_1755253146_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 15:49:31,742 - main - INFO - Document doc_1755253146_ICIHLIP22012V012223.pdf processed successfully in 25.43s
+2025-08-15 15:51:15,254 - main - INFO - Query processed successfully in 6.87s
+2025-08-15 15:52:57,488 - main - INFO - Query processed successfully in 8.03s
+2025-08-15 15:56:16,989 - main - INFO - Upserted 176 chunks for doc_1755253555_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 15:56:16,990 - main - INFO - Document doc_1755253555_ICIHLIP22012V012223.pdf processed successfully in 21.40s
+2025-08-15 15:56:45,477 - main - INFO - Query processed successfully in 4.74s
+2025-08-15 15:57:04,983 - main - INFO - Query processed successfully in 3.59s
+2025-08-15 15:57:48,374 - main - INFO - Query processed successfully in 19.51s
+2025-08-15 19:51:12,436 - main - INFO - Initializing RAG system components...
+2025-08-15 19:51:12,754 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 19:51:12,755 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 19:51:20,279 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 19:51:20,282 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 19:51:20,282 - main - INFO - RAG system initialization completed
+2025-08-15 19:52:47,936 - main - INFO - Upserted 176 chunks for doc_1755267730_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 19:52:47,937 - main - INFO - Document doc_1755267730_ICIHLIP22012V012223.pdf processed successfully in 36.95s
+2025-08-15 19:54:14,209 - main - INFO - Initializing RAG system components...
+2025-08-15 19:54:14,269 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 19:54:14,269 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 19:54:19,133 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 19:54:19,134 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 19:54:19,134 - main - INFO - RAG system initialization completed
+2025-08-15 19:57:35,834 - main - INFO - Initializing RAG system components...
+2025-08-15 19:57:35,907 - main - INFO - Gemini embeddings initialized successfully
+2025-08-15 19:57:35,907 - main - INFO - Recursive text splitter initialized successfully
+2025-08-15 19:57:40,952 - main - INFO - Pinecone index ready: hackerx-rag
+2025-08-15 19:57:40,952 - main - INFO - Loaded 0 few-shot examples
+2025-08-15 19:57:40,952 - main - INFO - RAG system initialization completed
+2025-08-15 19:58:43,723 - main - INFO - Upserted 176 chunks for doc_1755268089_ICIHLIP22012V012223.pdf into Pinecone
+2025-08-15 19:58:43,725 - main - INFO - Document doc_1755268089_ICIHLIP22012V012223.pdf processed successfully in 34.61s
+2025-08-15 19:59:06,863 - main - INFO - Query processed successfully in 3.92s
+2025-08-15 19:59:45,064 - main - INFO - Query processed successfully in 3.18s
+2025-08-15 20:00:08,713 - main - INFO - Query processed successfully in 2.39s

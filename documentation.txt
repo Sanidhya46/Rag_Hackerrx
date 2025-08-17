@@ -1,0 +1,21 @@
+//              Apis Documentation
+
+To make the system production-ready, fast, and stable. Each endpoint has a clear job so the frontend and ops can manage long-running document workflows cleanly.
+Health and stats
+GET /health: For uptime probes (load balancers, monitors).
+GET /stats: For basic metrics (docs, chunks, sizes) in UI/ops.
+Document lifecycle
+POST /upload: Uploads a file and starts processing (can be long-running).
+GET /documents: Lists what’s loaded (for UI state).
+GET /documents/{id}/status: Poll progress without blocking the upload call.
+DELETE /documents/{id}: Remove a single document safely.
+DELETE /documents: Admin “clear all” (reset state).
+Query
+POST /query: Run RAG over selected doc(s) and return answers with sources.
+Why split them?
+Non-blocking UX: Upload and processing are decoupled; the UI polls status.
+Reliability: Each responsibility is isolated, easier to debug and retry.
+Scalability: Works with multiple docs/users; supports background processing.
+Ops/Monitoring: Health and stats endpoints are standard for production.
+Frontend simplicity: Clear, predictable endpoints per action.
+
