@@ -46,4 +46,5 @@ function Message({ sender, content, isStructure }) {
   );
 }
 
+
 export default Message;
